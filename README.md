@@ -145,27 +145,27 @@
 - Data de Conclusão: 25/09/22
 - Observações: Concluído enquanto realizava do Bootcamp "Database Experience"
 ### Imersão Cloud Computer
-- [ ] Primeiro Passos com AWS
+- [X] Primeiro Passos com AWS
 - Carga horária: 2 horas
 - Nível: Intermediário
-- Data de Conclusão:
-- [ ] Desenvolvendo Soluções Serverless na AWS
+- Data de Conclusão: 14/10/22
+- [X] Desenvolvendo Soluções Serverless na AWS
 - Carga horária: 4 horas
 - Nível: Avançado
-- Data de Conclusão:
-- [ ] Introdução a Engenharia de Dados na AWS
+- Data de Conclusão: 15/10/22
+- [X] Introdução a Engenharia de Dados na AWS
 - Carga horária: 2 horas
 - Nível: Intermediário
-- Data de Conclusão:
-- [ ] Imersão ao Ecossistema Cloud Data AWS
+- Data de Conclusão: 17/10/22
+- [X] Imersão ao Ecossistema Cloud Data AWS
 - Carga horária: 2 horas
 - Nível: Avançado
-- Data de Conclusão:
+- Data de Conclusão: 17/10/22
 ### Machine Learning
-- [ ] Linguagens de Programação para Machine Learning
+- [X] Linguagens de Programação para Machine Learning
 - Carga horária: 1 hora
 - Nível: Intermediário
-- Data de Conclusão:
+- Data de Conclusão: 17/10/22
 - [ ] Python para Machine Learning
 - Carga horária: 3 horas
 - Nível: Intermediário
