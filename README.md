@@ -166,14 +166,14 @@
 - Carga horária: 1 hora
 - Nível: Intermediário
 - Data de Conclusão: 17/10/22
-- [ ] Python para Machine Learning
+- [X] Python para Machine Learning
 - Carga horária: 3 horas
 - Nível: Intermediário
-- Data de Conclusão:
-- [] R para Machine Learning
+- Data de Conclusão: 17/10/22
+- [X] R para Machine Learning
 - Carga horária: 2 horas
 - Nível: Intermediário
-- Data de Conclusão:
+- Data de Conclusão: 17/10/22
 - [ ] Entendendo Machine Learning com Amazon SageMaker
 - Carga horária: 2 horas
 - Nível: Avançado
