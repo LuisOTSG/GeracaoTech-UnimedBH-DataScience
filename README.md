@@ -251,6 +251,7 @@
 **Total Geral**
 - 3 cursos e 1 desafio
 - 13 horas
+
 **Por Nível**
 _Nível Básico_:
 - 3 cursos e 1 desafio
@@ -259,13 +260,16 @@ _Nível Básico_:
 **Total Geral**
 - 16 cursos e 5 desafios
  - 33 horas
+
 **Por Nível**
 _Nível Básico_:
 - 5 cursos e 2 desafios
 - 11 horas
+
 _Nível Intermediário_:
 - 6 cursos e 1 desafios
 - 12 horas
+
 _Nível Avançado_:
 - 2 cursos e 2 desafios
 - 10 horas
@@ -273,6 +277,7 @@ _Nível Avançado_:
 **Total Geral_**
 - 13 cursos e 4 desafios
 - 42 horas
+
 **Por Nível**
 _Nível Básico_:
 - 1 curso
@@ -280,6 +285,7 @@ _Nível Básico_:
 _Nível Intermediário_:
 - 2 cursos e 2 desafios
 - 16 horas
+
 _Nível Avançado_:
 - 6 cursos e 2 desafios
 - 23 horas
@@ -287,10 +293,13 @@ _Nível Avançado_:
 **Total Geral**
 - 4 cursos e 2 desafios
 - 12 horas
+
 **Por Nível**
+
 _Nível Intermediário_:
 - 2 cursos
 - 4 horas
+
 _Nível Avançado_:
 - 2 cursos e 2 desafios
 - 8 horas
@@ -299,9 +308,11 @@ _Nível Avançado_:
 - 4 cursos e 1 desafio
 - 10 horas
 **Por Nível**
+
 _Nível Intermediário_:
 - 3 cursos
 - 6 horas
+
 _Nível Avançado_:
 - 1 curso e 1 desafio
 - 4 horas
