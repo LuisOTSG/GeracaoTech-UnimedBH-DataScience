@@ -253,6 +253,7 @@
 - 13 horas
 
 **Por Nível**
+
 _Nível Básico_:
 - 3 cursos e 1 desafio
 - 13 horas
@@ -262,6 +263,7 @@ _Nível Básico_:
  - 33 horas
 
 **Por Nível**
+
 _Nível Básico_:
 - 5 cursos e 2 desafios
 - 11 horas
@@ -274,14 +276,16 @@ _Nível Avançado_:
 - 2 cursos e 2 desafios
 - 10 horas
 ### Bancos de Dados SQL e NoSQL
-**Total Geral_**
+**Total Geral**
 - 13 cursos e 4 desafios
 - 42 horas
 
 **Por Nível**
+
 _Nível Básico_:
 - 1 curso
 - 3 horas 
+
 _Nível Intermediário_:
 - 2 cursos e 2 desafios
 - 16 horas
@@ -307,6 +311,7 @@ _Nível Avançado_:
 **Total Geral**
 - 4 cursos e 1 desafio
 - 10 horas
+
 **Por Nível**
 
 _Nível Intermediário_:
