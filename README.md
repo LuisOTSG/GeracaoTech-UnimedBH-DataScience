@@ -191,10 +191,10 @@
 - Nível: Básico
 - Data de Conclusão: 12/10/22
 ### Python para Cientistas de Dados
-- [ ] Análise de dados com Python e Pandas
+- [X] Análise de dados com Python e Pandas
 - Carga horária: 4 horas
 - Nível: Intermediário
-- Data de Conclusão:
+- Data de Conclusão: 26/10/22
 - [ ] Descomplicando a criação de pacotes de processamento de imagens em Python
 - Carga horária: 2 horas
 - Nível: Avançado
@@ -241,10 +241,10 @@
 - Carga horária: 1 hora
 - Nível: Básico
 - Data e Conclusão: 19/10/22
-- [ ] Desafios Intermediários Py - Unimed BH
+- [X] Desafios Intermediários Py - Unimed BH
 - Carga horária: 1 hora
 - Nível: Básico
-- Data e Conclusão:
+- Data e Conclusão: 25/10/22
 
 ## Estatísticas
 ### Prepare-se Para a Jornada
@@ -269,7 +269,7 @@ _Nível Básico_:
 - 11 horas
 
 _Nível Intermediário_:
-- 6 cursos e 1 desafios
+- 6 cursos e 1 desafio
 - 12 horas
 
 _Nível Avançado_:
